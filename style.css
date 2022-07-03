@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-size: 25px;
+    margin: 0;
 }
 .Paragraph-font{
     font-size: 16px;
@@ -27,8 +28,13 @@ section{
     background-image: linear-gradient( lightsalmon, tomato);
    /* background-color: orange;*/
     padding: 10px 40px;
-    font-weight: 400;
+    font-weight: 700;
     color: white;
     border-radius: 5px;
+   
+}
+.for-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
    
 }
