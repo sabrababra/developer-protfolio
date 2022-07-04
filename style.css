@@ -10,7 +10,7 @@ body{
     text-align: justify;
     
 }
-#f-part{
+.f-part{
    color: orange; 
 }
 section{
@@ -48,4 +48,26 @@ section{
     background-repeat: no-repeat;
     background-position: right;
     padding-bottom: 13%;
+}
+.box{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+   
+}
+#border{
+    border-left: 5px solid tomato;
+}
+#border2{
+    border-left: 5px solid blue;
+}
+.big-dream{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+footer p{
+    font-size: 16px;
+    color: dimgray;
+    text-align: center;
 }
